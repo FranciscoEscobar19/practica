@@ -1,0 +1,20 @@
+.App1{
+width: 900px;
+height: 600px;
+border: 3px solid black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 10%;
+}
+.imagen{
+  width: 800px;
+  height: 500px;
+  padding-bottom: 20px;
+  align-content: center
+ ;
+}
+.card{
+  
+}
